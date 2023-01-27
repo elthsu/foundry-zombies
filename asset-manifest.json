@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/foundry-zombies/static/css/main.073c9b0a.css",
+    "main.js": "/foundry-zombies/static/js/main.9c053a81.js",
+    "static/js/787.2b7343fa.chunk.js": "/foundry-zombies/static/js/787.2b7343fa.chunk.js",
+    "static/media/logo.svg": "/foundry-zombies/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/foundry-zombies/index.html",
+    "main.073c9b0a.css.map": "/foundry-zombies/static/css/main.073c9b0a.css.map",
+    "main.9c053a81.js.map": "/foundry-zombies/static/js/main.9c053a81.js.map",
+    "787.2b7343fa.chunk.js.map": "/foundry-zombies/static/js/787.2b7343fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.9c053a81.js"
+  ]
+}
